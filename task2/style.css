@@ -1,0 +1,13 @@
+.col-4{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.btn-dark{
+    margin-bottom: 20px;
+}
+.wrapper{
+    margin-top: 20px;
+}
+.text-danger{
+    margin-left: 10px;
+}
